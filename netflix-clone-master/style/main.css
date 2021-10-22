@@ -1,6 +1,6 @@
 :root{
-    --vermelho:#E50914;
-    --preta:#141414;
+    --vermelho:#fc0511;
+    --preta:#065468;
 }
 
 *{
@@ -13,7 +13,7 @@
 body{
    background: var(--preta);
    font-family: 'Arial', Times, serif;
-   color:white;
+   color:rgb(177, 174, 174);
 }
 
 
@@ -40,7 +40,7 @@ header nav a{
 
 
 header nav a:hover{
-    color:#fff;
+    color:rgb(236, 234, 234);
 }
 
 /*filme principal*/
